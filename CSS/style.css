@@ -162,3 +162,7 @@
     transition: 0,4s;
     border: 1px solid black;
 }
+footer {
+    background-color: black;
+    color: lightgray;
+}
