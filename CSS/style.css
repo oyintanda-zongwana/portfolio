@@ -147,3 +147,12 @@
     transition: 0.4s;
     color: white;
 }
+.contactme .btn3 {
+    background-color: black;
+    color: white;
+    outline: none;
+    border: none;
+    height: 40px;
+    width: 140px;
+    border-radius: 4px;
+}
