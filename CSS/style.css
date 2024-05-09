@@ -29,10 +29,11 @@
     text-decoration: none;
 } */
 .main {
-    background: url();
-    background-size: cover;
+    /* background-image: url(https://oyintanda-zongwana.github.io/portfolioimgages/images/pic1.jpg); */
+    /* background-image: cover; */
+    background-: cover;
     width: 100%;
-    height: 95vh;
+    height: 100%;
     /* text-align: center; */
 }
 .main h1 {
@@ -55,6 +56,12 @@
     border: none;
     font-weight: bold;
     border-radius: 5px;
+}
+.homeimg {
+    width: 500px;
+    height: 500px;
+    border: none;
+    border-radius: 100%;
 }
 #home {}
 #about {}
