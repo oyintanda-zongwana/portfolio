@@ -132,14 +132,15 @@
     justify-content: center;
 } */
 #carouselExampleCaptions {
-    display: flex;
-    justify-: center;
-    width: 30em;
-    height: 30em;
+    height: 40em;
+    background-color: black;
+    /* color: aliceblue; */
 }
 #carouselExampleCaptions button {
-    background-color: black;
-
+    background-color: rgb(63, 48, 48);  
+}
+.carousel-caption {
+    color: aliceblue;
 }
 .circle {
     height: 70px;
