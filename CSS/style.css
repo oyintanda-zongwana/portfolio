@@ -123,10 +123,9 @@
 #carouselExampleCaptions {
     height: 40em;
     background-color: black;
-    /* color: aliceblue; */
 }
 #carouselExampleCaptions button {
-    background-color: rgb(63, 48, 48);  
+    background-color: transparent;  
 }
 .carousel-caption {
     color: rgb(60, 232, 17);
