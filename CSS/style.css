@@ -147,6 +147,14 @@
     transition: 0.4s;
     color: white;
 }
+.contactme h1 {
+    font-size: 4.4rem;
+    font-weight: 700;
+}
+.contacticon {
+    display: flex;
+    justify-content: space-evenly;
+}
 .contactme .btn3 {
     background-color: black;
     color: white;
