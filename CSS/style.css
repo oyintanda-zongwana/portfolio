@@ -227,11 +227,18 @@ footer {
     background-color: black;
     color: lightgray;
 }
+hr {
+    color: white;
+}
 @media only screen and (max-width: 300px) {
     /* Navbar styling for mobile */
     #navog {
         /* Adjust navbar styles for mobile */
         /* The navbar is funtional */
+    }
+
+    hr {
+        width: 515px;
     }
 
     /* Home section styling for mobile */
