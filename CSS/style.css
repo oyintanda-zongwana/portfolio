@@ -40,18 +40,10 @@
 /* Testimonials */
 #testimonials {
     background-color: #ffcc66; /* Golden yellow background */
-    color: #333; /* Dark text color */
-    /* Add additional styling as needed */
+    color: #333;
 }
-
-/* Contact */
-/* .contactme {
-    background-color: coral;
-    color: white;
-    /* Add additional styling as needed */
-} */
 #navog {
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.379);
 }
 .logo {
     border-radius: 100%;
@@ -67,13 +59,6 @@
     color: white;
     background-color: black;
 }
-/* .navbar-brand {
-    font-size: 1.25rem;
-    font-weight: 800;
-    color: black;
-    cursor: pointer;
-    text-decoration: none;
-} */
 .main {
     background-: cover;
     width: 100%;
