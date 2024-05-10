@@ -336,15 +336,16 @@
                     method="POST" target="_blank">
                         <div class="form-row">
                             <div class="col-lg-12">
-                                <input type="text" class="form-control bg-light mb-3" placeholder="Name">
+                                <input type="text" name="name" class="form-control bg-light mb-3" placeholder="Name" required>
                             </div>
                             <div class="col-lg-12">
-                                <input type="email" class="form-control bg-light mb-3" placeholder="Email">
+                                <input type="email"
+                                name="email" class="form-control bg-light mb-3" placeholder="Email" required>
                             </div>
                         </div>
                         <div class="form-row">
                             <div class="col-lg-12">
-                                <textarea name="" id="" class="form-control bg-light" placeholder="Message" cols="30" rows="10"></textarea>
+                                <textarea name="message" id="" class="form-control bg-light" placeholder="Message" cols="30" rows="10" required></textarea>
                             </div>
                         </div>
                         <button class="btn3 my-4"  type="submit">Submit</button>
