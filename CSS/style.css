@@ -74,7 +74,7 @@
     text-transform: uppercase;
     line-height: 1;
     border-bottom: 3px solid rgb(46, 14, 228);
-    width: 42%;
+    width: 46%;
 }
 .main .bt1 {
     height: 55px;
@@ -226,4 +226,56 @@
 footer {
     background-color: black;
     color: lightgray;
+}
+@media only screen and (max-width: 300px) {
+    /* Navbar styling for mobile */
+    #navog {
+        /* Adjust navbar styles for mobile */
+        /* The navbar is funtional */
+    }
+
+    /* Home section styling for mobile */
+    .main {
+        /* Adjust home section styles for mobile */
+        background-color: lightblue;
+        width: 515px;
+    }
+    .main h4 {
+        width: 59.4%;
+    }
+    /* About section styling for mobile */
+    .about {
+        /* Adjust about section styles for mobile */
+        width: 515px;
+    }
+
+    /* Resume section styling for mobile */
+    .resume {
+        /* Adjust resume section styles for mobile */
+        width: 515px;
+    }
+
+    /* Projects section styling for mobile */
+    .projects {
+        /* Adjust projects section styles for mobile */
+        width: 515px;
+    }
+
+    /* Testimonials section styling for mobile */
+    .tesimonials {
+        /* Adjust testimonials section styles for mobile */
+        width: 515px;
+    }
+
+    /* Contact section styling for mobile */
+    .contactme {
+        /* Adjust contact section styles for mobile */
+        width: 515px;
+    }
+
+    /* footer section styling for mobile */
+    .footer {
+        /* Adjust footer section styles for mobile */
+        width: 515px;
+    }
 }
