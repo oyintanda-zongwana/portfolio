@@ -43,21 +43,22 @@
     color: #333;
 }
 #navog {
-    background-color: rgba(255, 255, 255, 0.379);
+    /* background-color: rgba(255, 255, 255, 0.379); */
+    background-image: linear-gradient(to right, rgba(9, 9, 9, 0.868), rgb(0, 0, 0));
 }
 .logo {
     border-radius: 100%;
 }
 .nav-link {
-    color: rgb(2, 2, 2);
+    color: rgb(255, 255, 255);
     font-size: 1rem;
     font-weight: 700;
     cursor: pointer;
     text-decoration: none;
 }
 .nav-link:hover {
-    color: white;
-    background-color: black;
+    color: rgb(9, 9, 9);
+    background-color: rgb(223, 219, 219);
 }
 .main {
     background-: cover;
